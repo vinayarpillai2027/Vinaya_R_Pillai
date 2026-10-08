@@ -27,7 +27,7 @@ An early-warning system for human–wildlife conflict in the Wayanad region. It 
 
 **Stack:** ESP32 · Raspberry Pi · TensorFlow Lite · MQTT / LoRaWAN · Flask · Firebase · React
 
-> 🔗 Repository: *add link here once the repo is public*
+> 🔗 Repository:
 
 ## Experience
 
@@ -58,4 +58,4 @@ An early-warning system for human–wildlife conflict in the Wayanad region. It 
 ## Get in touch
 
 Always happy to talk about IoT, edge AI or web development.
-Email me at **vinayapillai2017@gmail.com** or message me on [LinkedIn](https://linkedin.com/in/Vinaya-R-Pillai).
+Email me at **vinayapillai2017@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/vinaya-pillai-4a60633b1/).
