@@ -5,7 +5,7 @@ Building real-world systems, from IoT devices to full-stack web apps.
 
 📍 Pathanamthitta, Kerala, India
 ✉️ vinayapillai2017@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/Vinaya-R-Pillai)
+🔗 [LinkedIn](https://www.linkedin.com/in/vinaya-pillai-4a60633b1/)
 
 ---
 
